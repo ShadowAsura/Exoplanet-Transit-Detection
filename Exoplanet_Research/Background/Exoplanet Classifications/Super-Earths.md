@@ -1,0 +1,2 @@
+   - Characteristics: More massive and larger than Earth, but smaller than gas giants.
+   - Examples: [[Kepler-20b]],[[Gliese 581c]].

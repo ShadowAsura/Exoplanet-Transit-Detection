@@ -1,0 +1,2 @@
+   - Characteristics: Gas giants with short orbital periods, often close to their host stars.
+   - Examples: [[HD 209458b]], [[WASP-12b]].

@@ -1,0 +1,2 @@
+   - Characteristics: Intermediate between terrestrial planets and gas giants.
+   - Examples:[[Kepler-11b]], [[K2-18b]].

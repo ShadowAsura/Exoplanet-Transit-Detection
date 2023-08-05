@@ -1,0 +1,2 @@
+   - Characteristics: Large in size, composed primarily of hydrogen and helium.
+   - Examples: Jupiter-like planets, Saturn-like planets.
